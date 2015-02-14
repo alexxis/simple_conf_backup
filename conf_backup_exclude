@@ -1,0 +1,5 @@
+*passwd
+*.default
+*.sample
+/usr/local/etc/transmission/
+/root/.cache/
